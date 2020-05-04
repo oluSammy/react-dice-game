@@ -1,0 +1,14 @@
+.btn-restart{
+    width: 14vw; 
+    padding: .5rem 2rem;
+    background-color: rgb(155, 155, 155);
+    font-size: 1.8rem;
+    cursor: pointer;
+    border: none;
+    border-radius: 1rem;
+    margin: 2rem auto;
+}
+
+.btn-restart:focus{
+    outline: none;
+}

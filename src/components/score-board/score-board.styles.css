@@ -1,0 +1,28 @@
+.score-container{
+    width: 30rem;
+    margin: 2rem auto;    
+    
+}
+
+.score-container h1{
+    text-align: center;
+}
+
+.row{
+    display: flex;
+    margin-bottom: 2rem;
+    justify-content: center;
+}
+
+.column{
+    flex: 0 0 20%
+}
+
+.round-container{    
+    padding-top: 1rem;
+    /* width: 72%; */
+}
+
+.round-column{
+    margin-right: 10%;
+}

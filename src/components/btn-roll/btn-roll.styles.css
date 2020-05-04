@@ -1,0 +1,14 @@
+.btn-roll{
+    width: 20vw; 
+    padding: .5rem 2rem;
+    background-color: greenyellow;
+    font-size: 3rem;
+    cursor: pointer;
+    border: none;
+    border-radius: 1rem;
+    margin: 0 auto;
+}
+
+.btn-roll:focus{
+    outline: none;
+}
